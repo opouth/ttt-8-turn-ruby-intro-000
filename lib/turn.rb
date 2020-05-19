@@ -41,6 +41,7 @@ if valid_move?(number_entered, board)
 #   - make the move for index
   move(ttt_board, number_entered)
 #   - show the board
+end
   display_board(ttt_board)
 #else ask tor input again until you get a valid input
 
